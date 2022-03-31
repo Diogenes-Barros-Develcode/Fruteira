@@ -23,24 +23,29 @@ const cesta = {
             {
                nome: "Tomate",
                imagem: tomate,
+               valorFrutas: "R$ 8,00"
             },
             {
                 nome: "Batata",
                 imagem: batata,
+                valorFrutas: "R$ 8,00"
             },
             {
                 nome: "Brócolis",
                 imagem: brocolis,
+                valorFrutas: "R$ 8,00"
             },
             {
                 nome: "Pepino",
                 imagem: pepino,
+                valorFrutas: "R$ 8,00"
             },
             {
                 nome: "Abóbora",
                 imagem: abobora,
+                valorFrutas: "R$ 8,00",
             }
-        ]
+        ],
     },
 }
 
